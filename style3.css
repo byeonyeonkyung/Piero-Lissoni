@@ -1,0 +1,194 @@
+*{margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+font-family:"Noto Sans", "sans-serif" ;}
+ a:link{color:white;}
+a:visited{color:white;}
+a:hover{color:#ED5E29;}
+a:active{color:white;}
+
+
+    .box{ width: 100%;}
+    .box1{  height: 1262px ;
+            position: relative; 
+            margin: 0 auto;
+            background-image: url(img/3-1.png);
+            justify-content: center;
+            background-position-x: center;
+            background-position-y: center;
+             background-repeat: no-repeat;}
+    /* .sbox2-1{width: 1100px;
+                height: 80px;
+                position: absolute;
+                top: 0%;
+               background-color: rgb(237, 0, 0);} */
+        
+               
+        .sbox2-2{width: 1007px;
+                height: 80px;
+                position: absolute;
+                top: 80px; left: 47px;
+                
+                justify-content: space-between;
+                display: flex;}
+                li a{
+                    margin-top: 23px;
+                    font-style: "Noto Sans", "sans-serif";
+                    font-weight: Medium;
+                    font-size: 25px;
+                    color: #ffffff;
+                    letter-spacing: -0.04em;
+                    display: block;
+                        }
+       
+    .box2{width: 1100px;
+        height: 1262px;
+        position: relative;
+        /* background-color: rgba(141, 141, 49, 0.38); */
+        margin: 0 auto;
+        
+       }
+       .sbox2-1{width: 1100px;
+        height: 80px;
+        position: absolute;
+        top: 0%;
+      }
+       .center{top: 23px; left: 462px;
+    width: 176px;
+    height: 41px;
+    position: absolute;
+        }
+       
+        
+        
+        
+    
+
+    
+       .sbox2-3{width: 176px;
+        height: 41px;
+        position: absolute;
+        margin: 178px 462px 1043px 462px;
+       
+       font-style: "Noto Sans", "sans-serif";
+       font-weight: 600;
+       font-size: 25px;
+       color: #ffffff;
+       letter-spacing: 0em;
+        line-height: 1.5em;}
+       .sbox2-4{width: 396px;
+        height: 35px;
+        position: absolute;
+        margin: 237px 352px 990px 352px;
+       
+    
+       font-style: Noto Sans;
+       font-weight: SemiBold;
+       font-size: 25px;
+       color: #ffffff;
+       letter-spacing: -0.04em;
+        line-height: 1.5em;
+   }
+       .sbox2-5{width: 576px;
+          height: 198px;
+        position: absolute;
+        margin: 424px 20px 640px 513px;
+       
+    
+       font-style: Noto Sans;
+       font-weight: Medium;
+       font-size: 18px;
+       color: #ffffff;
+       /* letter-spacing: -0.04em; */
+       letter-spacing: 0em;
+       line-height: 1.5em;
+   }
+       .sbox2-6{width: 576px;
+        height: 168px;
+        margin: 635px 20px 429px 513px;
+        position: absolute;
+        
+    
+        font-style: Noto Sans;
+        font-weight: Medium;
+        font-size: 18px;
+        color: #ffffff;
+        letter-spacing: 0em;
+        line-height: 1.5em;
+    }
+        .sbox2-7{width: 435px;
+            height: 363px;
+            margin: 430px 638px 469px 27px;
+            position: absolute;
+            background-image: url(img/3-2.png);}
+
+        .sbox2-8{width: 774px;
+                height: 27px;
+                margin: 926px 163px 309px 163px;
+                position: absolute;
+                
+            
+        font-style: Noto Sans;
+        font-weight: SemiBold;
+        font-size: 18px;
+        color: #ffffff;
+        letter-spacing: -0.02em;
+        
+    }
+       
+    
+        .sbox2-9{width: 176x;
+                  height: 27px;
+                  left: 32px; bottom: 177px;
+                  position: absolute;
+                  ;
+                
+        font-style: Noto Sans;
+        font-weight: SemiBold;
+        font-size: 20px;
+        color: #ffffff;
+        letter-spacing: -0.04em;
+       
+    }
+    .sbox2-10 {width: 32px;
+        height: 32px;
+        left: 32px ;bottom:136px;
+        position: absolute;
+        
+        }
+    .sbox2-11 {width: 32px;
+            height: 32px;
+            left: 79px ;bottom:136px;
+            position: absolute;
+            
+            }
+     .sbox2-12 {width: 32px;
+                height: 32px;
+                left: 126px ;bottom:136px;
+                position: absolute;
+               
+                }
+     .sbox2-13 {width: 32px;
+                    height: 32px;
+                    left: 174px ;bottom:136px;
+                    position: absolute;
+                   
+                    }
+      .sbox2-14 {width: 199px;
+                        height: 80px;
+                        left: 36px ;bottom:29px;
+                        position: absolute;
+                       
+        font-style: Noto Sans;
+        font-weight: SemiBold;
+        font-size: 15px;
+        color: #ffffff;
+        letter-spacing: -0.04em;
+        line-height: 1.5em;
+    
+                        }
+    
+
+       
+       

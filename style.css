@@ -1,0 +1,100 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;}
+
+    a:link{color:white;}
+    a:visited{color:white;}
+    a:hover{color:#ED5E29;}
+    a:active{color:white;}
+
+    .wrap{ width: 100%;}
+    .background1{
+        height: 80px;
+        position: relative; 
+        margin: 0 auto;
+        background-image: url(img/1-1.png);
+        justify-content: center;
+        background-position-x: center;
+        background-position-y: center;
+         background-repeat: no-repeat;}
+      .background2{
+        
+            height: 80px;
+            position: relative; 
+            margin: 0 auto;
+            background-image: url(img/1-2.png);
+            justify-content: center;
+            background-position-x: center;
+            background-position-y: center;
+             background-repeat: no-repeat;}
+        .box2{ width: 1100px;
+            height: 80px;
+            margin: 0 auto;
+            position: relative;
+            
+            }
+      .box2-1{width: 1007px;
+                height: 80px;
+                position: absolute;
+                
+                left: 47px;
+                justify-content: space-between;
+                display: flex;}
+                li a{
+                    margin-top: 23px;
+                    font-style: "Noto Sans", "sans-serif";
+                    font-weight: Medium;
+                    font-size: 25px;
+                    color: #ffffff;
+                    letter-spacing: -0.04em;
+                    display: block;
+                        }
+         .background3{
+                            height: 920px;
+                            position: relative; 
+                            margin: 0 auto;
+                            background-image: url(img/1-3.png);
+                            justify-content: center;
+                            background-position-x: center;
+                            background-position-y: center;
+                             background-repeat: no-repeat;}
+        
+                             .background4{
+                                height: 1080px;
+                                position: relative; 
+                                margin: 0 auto;
+                                background-image: url(img/1-4.png);
+                                justify-content: center;
+                                background-position-x: center;
+                                background-position-y: center;
+                                 background-repeat: no-repeat;}
+                                 .box4-1{ width: 960px;
+                                    height: 1080px;
+                                    margin: 0 auto;
+                                    position: relative;
+                                    background-color: #ff0000;
+                                    }
+         .box4-2{width: 480px;
+                 height: 540px;
+                position: absolute;
+                top: 0;
+                        }
+     .box4-3{width: 480px;
+            height: 540px;
+            position: absolute;
+            left: 480px;
+                                   }
+       .box4-4{width: 480px;
+                height: 540px;
+                 position: absolute;
+                 top: 540px;
+                                           }
+                                           .box4-5{width: 480px;
+                                            height: 540px;
+                                             position: absolute;
+                                             top: 540px;right: 0;
+                                                                       }
+
